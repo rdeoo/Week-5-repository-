@@ -1,3 +1,20 @@
-.heading{color:red}
-.parisparagrapgh{color:beige}
-#pinkheading{color:pink}
+.heading {
+  color: red;
+}
+.parisparagrapgh {
+  color: beige;
+}
+#pinkheading {
+  color: pink;
+}
+
+span {
+  padding: 0px 5px;
+  border-top: 2px solid black;
+  border-bottom: 4px solid gray;
+}
+
+p {
+  border: 10px lightgreen ridge;
+  margin: 5px;
+}
